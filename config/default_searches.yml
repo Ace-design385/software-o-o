@@ -16,3 +16,7 @@
 "openoffice.org": "The successor of openoffice.org is called <a href='http://software.opensuse.org/search?q=libreoffice'>LibreOffice</a>."
 "google chrome": "The open source version of Google's browser is called chromium. Get it <a href='http://software.opensuse.org/package/chromium'>here</a>."
 "webmin": "Please get packages for webmin directly from: <a href='http://www.webmin.com/download.html'>http://www.webmin.com/download.html</a>."
+"tow-boot": "Tow-Boot is an opinionated distribution of U-Boot. Please see the <a href='https://tow-boot.org/'>official Tow-Boot website</a> for more details and installation instructions."
+"tow boot": "Tow-Boot is an opinionated distribution of U-Boot. Please see the <a href='https://tow-boot.org/'>official Tow-Boot website</a> for more details and installation instructions."
+"tow-boot bootloader": "Tow-Boot is an opinionated distribution of U-Boot. Please see the <a href='https://tow-boot.org/'>official Tow-Boot website</a> for more details and installation instructions."
+"tow boot bootloader": "Tow-Boot is an opinionated distribution of U-Boot. Please see the <a href='https://tow-boot.org/'>official Tow-Boot website</a> for more details and installation instructions."
