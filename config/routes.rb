@@ -29,7 +29,7 @@ Rails.application.routes.draw  do
   get 'ymp/:project/:repository/:package.ymp', to: 'download#ymp_without_arch_and_version',
       :constraints => { :project => /[\w\-\.:\+]+/, :repository => /[\w\-\.:\+]+/, :package => /[-+\w\.:\@]+/ }
   get 'ymp/:project/:repository/:arch/:binary.ymp', to: 'download#ymp_with_arch_and_version',
-      :constrains => { :project => /[\w\-\.:]+/, :repository => /[\w\-\.:]+/, :arch => /[\w\-\.:]+/, :binary => /[\w\-\.:\+]+/ }
+      :constraints => { :project => /[\w\-\.:]+/, :repository => /[\w\-\.:]+/, :arch => /[\w\-\.:]+/, :binary => /[\w\-\.:\+]+/ }
 
   # compatibility routes for old download implementation
   get 'download' => "download#package"
